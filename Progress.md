@@ -15,4 +15,5 @@
   - None
 - Agenda attempted
   - Starting kafka
-    - https://www.conduktor.io/kafka/starting-kafka
+    - [Workflow](./Admin/Install%2BKafka%2BDiagram.pdf)
+    - [Full reference](https://www.conduktor.io/kafka/starting-kafka)
