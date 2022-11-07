@@ -80,5 +80,5 @@
 - Send notifications to Kafka in case of changes
 - Zookeeper is necessary now but not in the future (optional in 3.x and no need in 4.x) because Zookeeper has a scalability issue
 - KRaft will replace Zookeeper to improve performance
-- Zookeeper does `NOT` store consumer offsets with Kafka > v0.10 (store in topic)
+- Zookeeper does `NOT` store consumer offsets with Kafka > v0.10 (**store in topic**)
 - Do not use Zookeeper as a configuration on your Kafka client
