@@ -1,5 +1,11 @@
 # Acing Kafka
 
+## At the very beginning
+After clone the whole repo to your local, go to the root folder and execute the following command
+```
+git config core.hooksPath .githooks
+```
+
 ## Course source
 - [Apache Kafka Series - Learn Apache Kafka for Beginners v3](https://www.udemy.com/course/apache-kafka/)
 - [Source code](https://www.conduktor.io/apache-kafka-for-beginners)
